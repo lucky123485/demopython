@@ -9,6 +9,8 @@ secrets = {
         "password",
         "pass123",
         "123456",
+        "password"
+        "Redhat"
         # Add more common passwords here
     ],
     # Add more secret types and patterns here
