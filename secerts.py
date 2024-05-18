@@ -25,7 +25,7 @@ def find_secrets(file_contents):
 
 if __name__ == "__main__":
     import re
-
+password="redhat123"
     file_path = "path/to/your/file.txt"  # Replace with your file path
     with open(file_path, 'r') as file:
         file_contents = file.read()
